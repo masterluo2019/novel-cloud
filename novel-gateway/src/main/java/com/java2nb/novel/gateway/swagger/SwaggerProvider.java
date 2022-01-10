@@ -14,7 +14,7 @@ import java.util.List;
 
 /**
  * swagger provider，设置需要由网关管理的微服务资源名和路径
- * @author xiongxiaoyang
+ * @author luowei
  * @version 1.0
  * @since 2021/4/3
  */
